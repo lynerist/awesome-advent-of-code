@@ -290,7 +290,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [lynerist/Advent-of-code-2022-golang](https://github.com/lynerist/Advent-of-code-2022-golang) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--16-brightgreen)
 * [codemicro/adventOfCode](https://github.com/codemicro/adventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--26-brightgreen)
-* [pemoreau/advent-of-code](https://github.com/pemoreau/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--10--01-brightgreen)
+* [pemoreau/advent-of-code](https://github.com/pemoreau/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--10--07-brightgreen)
 * [pin2t/aoc2022](https://github.com/pin2t/aoc2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--08--31-brightgreen)
 * [shpikat/advent-of-code-2022](https://github.com/shpikat/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--04--10-brightgreen)
 * [FloSchl8/advent-of-code-2022](https://github.com/FloSchl8/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--06--03-brightgreen)
@@ -465,7 +465,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [SvetlinZarev/advent-of-code](https://github.com/SvetlinZarev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--10--01-brightgreen)
+* [SvetlinZarev/advent-of-code](https://github.com/SvetlinZarev/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--10--07-brightgreen)
 * [bertptrs/adventofcode](https://github.com/bertptrs/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--07--01-brightgreen)
 * [dellink/advent-of-code](https://github.com/dellink/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--01--20-brightgreen)
 * [ericwburden/advent_of_code_2022](https://github.com/ericwburden/advent_of_code_2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--29-brightgreen)
