@@ -221,7 +221,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [eduherminio/AoC2022](https://github.com/eduherminio/AoC2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--26-brightgreen)
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--02--03-brightgreen)
 * [mMosiur/AdventOfCode2022](https://github.com/mMosiur/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--11--19-brightgreen)
-* [sanderploegsma/advent-of-code](https://github.com/sanderploegsma/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--01--12-brightgreen)
+* [sanderploegsma/advent-of-code](https://github.com/sanderploegsma/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--02--06-brightgreen)
 
 #### C++
 
@@ -353,7 +353,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Julia.*
 
 * [DarthGandalf/advent-of-code](https://github.com/DarthGandalf/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--25-brightgreen)
-* [goggle/AdventOfCode2022.jl](https://github.com/goggle/AdventOfCode2022.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--01--23-brightgreen)
+* [goggle/AdventOfCode2022.jl](https://github.com/goggle/AdventOfCode2022.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--02--06-brightgreen)
 
 #### Kotlin
 
@@ -525,7 +525,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [MartinSeeler/advent-of-code-next](https://github.com/MartinSeeler/advent-of-code-next) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--18-brightgreen)
 * [Totto16/AOC-2022](https://github.com/Totto16/AOC-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--12-brightgreen)
-* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--01--14-brightgreen)
+* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--02--09-brightgreen)
 
 #### Deno
 
