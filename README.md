@@ -221,7 +221,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [eduherminio/AoC2022](https://github.com/eduherminio/AoC2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--26-brightgreen)
 * [encse/adventofcode](https://github.com/encse/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--02--26-brightgreen)
 * [mMosiur/AdventOfCode2022](https://github.com/mMosiur/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--11--19-brightgreen)
-* [sanderploegsma/advent-of-code](https://github.com/sanderploegsma/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--20-brightgreen)
+* [sanderploegsma/advent-of-code](https://github.com/sanderploegsma/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--05--07-brightgreen)
 
 #### C++
 
@@ -471,7 +471,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ericwburden/advent_of_code_2022](https://github.com/ericwburden/advent_of_code_2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--11--28-brightgreen)
 * [fspoettel/advent-of-code-2022](https://github.com/fspoettel/advent-of-code-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--11--24-brightgreen)
 * [hashedone/aoc-2022](https://github.com/hashedone/aoc-2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--21-brightgreen)
-* [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--23-brightgreen)
+* [sivertjoe/Advent-of-Code](https://github.com/sivertjoe/Advent-of-Code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--05--06-brightgreen)
 * [zsacul/AdventOfCode2022](https://github.com/zsacul/AdventOfCode2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2022--12--25-brightgreen)
 * [ofersadan85/advent_of_code](https://github.com/ofersadan85/advent_of_code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--25-brightgreen)
 * [slotThe/advent2022](https://github.com/slotThe/advent2022) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--04--07-brightgreen)
